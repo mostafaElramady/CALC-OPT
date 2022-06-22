@@ -1,0 +1,11 @@
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\bin\Debug\CALCOPT.exe.config
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\bin\Debug\CALCOPT.exe
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\bin\Debug\CALCOPT.pdb
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\obj\Debug\CALCOPT.csproj.AssemblyReference.cache
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\obj\Debug\CALCOPT.csproj.SuggestedBindingRedirects.cache
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\obj\Debug\CALCOPT.Form1.resources
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\obj\Debug\CALCOPT.Properties.Resources.resources
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\obj\Debug\CALCOPT.csproj.GenerateResource.cache
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\obj\Debug\CALCOPT.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\obj\Debug\CALCOPT.exe
+C:\Users\mostafa\Source\Repos\CALCOPT\CALCOPT\obj\Debug\CALCOPT.pdb
